@@ -194,7 +194,7 @@ This project leverages the following Azure service, as required by the Future Re
 
 A live demo of the project may be available if deployed on Azure Static Web Apps. Check the repository for a deployed link or a demo video (if included).
 
-- **Deployed App Link**: (Provide the Azure Static Web Apps URL if available, e.g., `https://<app-name>.azurestaticapps.net`.)
+- **Deployed App Link**: (Provide the Azure Static Web Apps URL if available, e.g., `https://lemon-stone-08a65af10.1.azurestaticapps.net/`.)
 - **Demo Video**: (If a demo video is included in the repository, e.g., `demo.mp4`, mention it here.)
 
 ---
